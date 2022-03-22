@@ -5,7 +5,7 @@ public class Trikkelinje {
     
     private String navn;
     private Stasjon endestasjon_vest, endestasjon_ost; 
-    private Lenkeliste<Stasjon> linje = new Lenkeliste<>();
+    private Lenkeliste<Stasjon> linje = new StasjonsBeholder();
 
     // konstruktør
     public Trikkelinje(String navn) {

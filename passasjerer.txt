@@ -1,0 +1,4 @@
+Mari;Bekkestua;Solli;ost;true
+Tom;Jar;Bekkestua;vest;true
+Petter;Sollrud;Ljabru;ost;false
+Isak;Nathionaltheateret;Holtet;ost;true
